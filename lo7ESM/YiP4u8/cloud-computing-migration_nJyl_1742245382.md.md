@@ -49,7 +49,6 @@ For something that is bigger than a one or two line fix, go through the process
 of making a fork and pull request yourself:
 
 > 1. Create your own fork of the code
-> 2. Clone the fork locally
 > 3. Make the changes in your local clone
 > 4. Push the changes from local to your fork
 > 5. Create a pull request to pull the changes from your fork back into the
