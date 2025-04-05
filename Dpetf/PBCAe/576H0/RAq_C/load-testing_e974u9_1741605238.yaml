@@ -6,7 +6,6 @@ github:
   labels:
     - performance
     - test
-    - java
 
   enabled_merge_buttons:
     squash: true
