@@ -42,7 +42,6 @@ In this release, we have a new contributor @YDMsama. Thanks and welcome! 🥳
 - Upgrade the Grafana version to 8.5.26 ([#533](https://github.com/KindlingProject/kindling/pull/533))
 - MySQL CommandLine Case: Ignore quit command and get sql with CLIENT_QUERY_ATTRIBUTES([#523](https://github.com/KindlingProject/kindling/pull/523))
 - ⚠️Breaking change: Refactor the data format of on/off CPU events from "string" to "array". Note that the old data format cannot be parsed using the new version of the front-end.([#512](https://github.com/KindlingProject/kindling/pull/512) [#520](https://github.com/KindlingProject/kindling/pull/520))
-
 ### Bug fixes
 - Fix the bug where the DNS domain is not obtained when DNS transport over TCP. ([#524](https://github.com/KindlingProject/kindling/pull/524))
 - Fix panic: send on closed channel. ([#519](https://github.com/KindlingProject/kindling/pull/519))
