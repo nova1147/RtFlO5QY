@@ -6,7 +6,6 @@ github:
   labels:
     - performance
     - test
-
   enabled_merge_buttons:
     squash: true
     merge:  false
