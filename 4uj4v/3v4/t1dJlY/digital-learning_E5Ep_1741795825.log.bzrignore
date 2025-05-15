@@ -95,7 +95,6 @@ tramp
 *_archive
 
 # flymake-mode
-*_flymake.*
 
 # eshell files
 /eshell/history
